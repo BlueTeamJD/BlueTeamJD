@@ -8,3 +8,4 @@
 - <b>Vulnerability-management-projects</b>
 [Vulerability management-program-implementation]https://github.com/BlueTeamJD/Vulnerability-management-program/tree/main
 
+- <b>Threat hunting and Security Operations</b>https://github.com/BlueTeamJD/Threat-Hunting-Scenario-Tor-Browser-Usage-/tree/main
