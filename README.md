@@ -1,4 +1,4 @@
-<h1>Hi, I'm John! Passionate Cyber Security Analyst</h1>
+<h1>I don't know who you are. I don't know what you want. If you are looking for ransom, I can tell you I don't have money. But what I do have are a very particular set of skills, skills I have acquired from an unquenchable thirst to break into the blue team & defend networks as a security analyst.</h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
